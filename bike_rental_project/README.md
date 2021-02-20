@@ -5,7 +5,7 @@ To demonstrate the Object Oriented Programming feature of Python and its applica
 
 ## Contents:
 * Main program and test program.
-* UML diagram explaining the structure and interdependency of classes used in the project.
+* UML diagram (.png format) explaining the structure and interdependency of classes used in the project.
 
 
 ## Customers can:
