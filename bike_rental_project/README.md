@@ -24,4 +24,4 @@ python -m pytest test.py
 This code is open source.
 
 ## How to run the code:
-Simply run the command <python3 main.py>.
+Simply run the command [python3 main.py]
