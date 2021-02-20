@@ -2,6 +2,12 @@
 
 To demonstrate the Object Oriented Programming feature of Python and its application in real life.
 
+
+## Contents:
+-> Main program and test program.
+-> UML diagram explaining the structure and interdependency of classes used in the project.
+
+
 ## Customers can:
 -> See the available bikes in shop.
 -> Rent bikes at 5 bucks an hour.
