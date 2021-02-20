@@ -4,21 +4,21 @@ To demonstrate the Object Oriented Programming feature of Python and its applica
 
 
 ## Contents:
--> Main program and test program.
--> UML diagram explaining the structure and interdependency of classes used in the project.
+* Main program and test program.
+* UML diagram explaining the structure and interdependency of classes used in the project.
 
 
 ## Customers can:
--> See the available bikes in shop.
--> Rent bikes at 5 bucks an hour.
--> Rent bikes at 20 buck a day.
--> Rent bikes at 60 bucks a week.
--> Family rental options - Discount of 30% on total price.
+* See the available bikes in shop.
+* Rent bikes at 5 bucks an hour.
+* Rent bikes at 20 buck a day.
+* Rent bikes at 60 bucks a week.
+* Family rental options - Discount of 30% on total price.
 
 ## The rental shops can:
--> Issue bill after bike is returned by customer
--> display available inventory
--> take orders from customers regarding the rentals.
+* Issue bill after bike is returned by customer
+* display available inventory
+* take orders from customers regarding the rentals.
 
 ## Unit Test:
 Most errors occur in corner cases such as Null values, negative and non-integer inputs. Hence, test module is written alongside the main program.
