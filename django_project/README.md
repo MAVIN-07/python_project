@@ -3,7 +3,7 @@ A simple web application made using Python framework. It can be seen as a real-l
 
 ## Contents:
 * Application files and scripts
-* UML and ER diagrams explaining the structure and interdependency of modules.
+* UML and ER diagrams (.png format) explaining the structure and interdependency of modules.
 * requirements.txt - Helpful in establishing the environment to run the program
 
 ## Tech-stack Used:
